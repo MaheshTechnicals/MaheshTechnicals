@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshTechnicals&show_icons=true&theme=tokyonight)
 
-- 📚 I'm currently studying Medicals
+- 📚 I'm Graduated. 
 - 🔭 I'm currently working on Android Development
 
 ### Still learning, Hope to see you around!
